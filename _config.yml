@@ -1,1 +1,5 @@
 baseurl: /jekyll_demo
+
+
+#####global config#####
+theme: leap-day
